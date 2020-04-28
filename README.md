@@ -97,7 +97,7 @@ Validar que efectivamente el servidor web fue instalado exitósamente.
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/Wc1owY9YEKDFeuw8gREwaGubW))
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/Wc1owY9YEKDFeuw8gREwaGubW)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-03)
 * [**ENLACE A SCRIPT DE INSTALACIÓN**](install-apache.sh)
 
@@ -118,7 +118,7 @@ Construya un `Vagrantfile` que al ser invocado cree una máquina virtual con las
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/xLEY7lzkrHzXm3OTPAH0zHckM)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-04)
 * [**ENLACE A SCRIPT DE INSTALACIÓN**](install-apache.sh)
 
