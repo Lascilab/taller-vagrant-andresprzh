@@ -142,7 +142,7 @@ Hola mundo
 
 Muestre evidencia que logró cumplir con lo planteado en los siguientes enlaces:
 
-* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org)
+* [**ENLACE A VIDEO EN ASCIINEMA**](https://asciinema.org/a/3aC8qurkFkqWRMGLBbds1AMRq)
 * [**ENLACE A VAGRANTFILE**](Vagrantfile-05)
 
 ---
